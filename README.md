@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ali Asghar
-- 👀 I’m interested in Software Development.
+- 👀 I’m interested in Software Development and Robotics.
 - 🌱 I’m currently studying Computer Systems Engineering in UET Peshawar.
 
 <!---
