@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ali Asghar
 - 👀 I’m interested in Software Development and Robotics.
-- 🌱 I’m currently studying Computer Systems Engineering in UET Peshawar.
+- 🌱 I’m currently studying Computer Systems Engineering at UET Peshawar.
 
 <!---
 Aliasgharshinwari/Aliasgharshinwari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
